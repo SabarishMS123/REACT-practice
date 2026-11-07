@@ -1,0 +1,6 @@
+{
+  "users": [],
+  "students": [
+    { "id": 1, "name": "Saboo", "email": "saboo@gmail.com", "course": "Math", "status": "Active" }
+  ]
+}
